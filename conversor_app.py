@@ -17,4 +17,4 @@ area_ha = area_km2 * 100
 if(st.button('Converter')):
  
     # Print área em hectares
-    st.text("Área: {} ha.".format(area_ha))
+    st.text("Área: {} ha".format(area_ha))
